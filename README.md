@@ -1,0 +1,2 @@
+# Customer-Churn-Prediction
+Customer churn prediction is to measure why customers are leaving a business. In this notebook, i will be looking at the customer churn for a telecom business. I will build a deep learning model to predict the churn and use PRECISION, RECALL, F SCORE to measure performance of my model. I will then handle the imbalance in the dataset using various techniques and import f1-score
